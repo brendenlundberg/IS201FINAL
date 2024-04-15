@@ -11027,3 +11027,11 @@ p {
 .address strong {
   font-size: 1.2rem;
 }
+<div class="text-box">
+</div>
+.text-box {
+  border: 1px solid #ccc; /* Add a border around the box */
+  padding: 20px; /* Add some padding inside the box */
+ ;/* Add a light background color */
+  font-size: 16px; /* Adjust the font size as needed */
+}
